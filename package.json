@@ -1,0 +1,14 @@
+{
+  "name": "fintech-api-implementation",
+  "version": "1.0.0",
+  "description": "A service system, where users can create accounts and get access to send and receive payments, using flutterwave api.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Ogar",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
